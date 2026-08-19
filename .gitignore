@@ -11,3 +11,4 @@
 # 空工具目录
 /.agents/
 /.codex/
+.cache/

@@ -1,5 +1,7 @@
 # GOAI 2026 Baseline 冲刺实施计划
 
+> **已被取代（2026-08-14）**：不要按本文执行 ACT 冲刺。当前计划是 `docs/superpowers/plans/2026-08-14-xiaomi-baseline-sprint.md`（官方 Xiaomi-1 RoboDojo ckpt，只推理）。
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** 在初赛截止前用官方 ACT checkpoint 跑通 24 配置本地评测、部署 Policy Server 并完成一次有效成绩提交。

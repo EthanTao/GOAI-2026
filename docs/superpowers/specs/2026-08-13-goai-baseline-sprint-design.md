@@ -1,7 +1,9 @@
 # GOAI 2026 Baseline 冲刺方案设计（方案 A）
 
+> **已被取代（2026-08-14）**：当前提交基线改为官方 Xiaomi-Robotics-1 RoboDojo ckpt。请改读 `docs/superpowers/specs/2026-08-14-xiaomi-baseline-sprint-design.md`、`docs/superpowers/plans/2026-08-14-xiaomi-baseline-sprint.md`、`docs/xiaomi_ops.md`。下文仅作历史记录（官方 ACT、冻结小米 VLA）。
+
 > 日期：2026-08-13
-> 状态：已确认（brainstorming 收敛）
+> 状态：**已取代**（原：已确认，brainstorming 收敛）
 > 关联文档：根目录 `GOAI 2026 通用双臂协同操作挑战赛.md`、`docs/接手文档.md`
 
 ---
