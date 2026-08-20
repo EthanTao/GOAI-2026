@@ -1,12 +1,11 @@
 # 数据盘大文件（符号链接，指向 /mnt/data/GOAI/）
 /Assets
 /data
-/checkpoints
+#/checkpoints
 /logs
 /results
 
-# 独立 git 仓库（官方 clone，自带版本控制）
-/RoboDojo/
+# RoboDojo 已摊平进本仓库（去掉嵌套 .git，按普通目录提交）
 
 # 空工具目录
 /.agents/
